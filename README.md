@@ -1,21 +1,19 @@
 # Algorithms in JavaScript
 
-
-<b>
-    <h3>
-        A list of Computer Science concepts solved and explained in JavaScript (ES6)
-    </h3>
-</b>
-
-
-
-
-## LeetCode Problems
-
----
-> Statistical rules: 1. Free questions, 2. Algorithm questions, 3. Can submit JS solutions
+<h3 style="font-size: 15.5px">
+    A list of Computer Science concepts solved and explained in JavaScript (ES6)
+</h3>
 
 <br>
+
+> Statistical rules: 1. Free questions, 2. Algorithm questions, 3. Can submit JS solutions
+
+
+<br>
+
+## LeetCode Problems
+<hr>
+
 
 ### Statistics
 |     | Easy | Medium | Hard | Total |
@@ -25,7 +23,6 @@
 <br>
 
 ### LeetCode Solutions
-<hr>
 
 №  | Problem         | Solution           |  Time           | Space           | Difficulty | Notes
 --------------- | --------------- |--------------------| --------------- | --------------- |------------| -----
