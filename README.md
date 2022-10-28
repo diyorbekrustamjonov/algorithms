@@ -32,7 +32,7 @@
 
 
 [Two Sum]: 'https://leetcode.com/problems/two-sum/'
-[Two Sum Solution]: '/1.LeetcodeProblems/1-TwoSum/index.js'
+[Two Sum Solution]: 'https://github.com/diyorbekrustamjonov/algorithms/blob/main/1.LeetcodeProblems/1-TwoSum/index.js'
 
 
 <p align="center">
